@@ -1,2 +1,2 @@
 # Segmantation_Video_YOLO
-RESULTS: 
+RESULTS: sample_test.mp4
